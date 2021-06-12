@@ -19,4 +19,4 @@ python main.py
 ```
 
 ## License
-https://github.com/kyuki-rp/qw-maze-solving/blob/31f84f34fdd9d257cfd0fcc112b8c5d71dc74820/LICENSE
+[LICENSE](../blob/master/LICENSE)
