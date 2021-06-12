@@ -2,15 +2,15 @@
 This repository is an official implementation of the paper - "Maze solving by a quantum walk with sinks and self-loops: Numerical analysis" (2021).
 
 ## Install
-- Python Version
+- Python Version  
 Python 3.6.12 :: Anaconda, Inc.
 
-- Requirements
+- Requirements  
 graphviz==0.16  
 numpy==1.19.2  
 pandas==1.1.3  
 
-- Graphviz
+- Graphviz  
 https://graphviz.org/download/
 
 ## Usage
