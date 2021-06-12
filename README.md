@@ -19,4 +19,4 @@ python main.py
 ```
 
 ## License
-[MIT License](LICENSE)
+[MIT License](qw-maze-solving/blob/main/LICENSE)
