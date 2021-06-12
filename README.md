@@ -19,4 +19,4 @@ python main.py
 ```
 
 ## License
-[MIT License](blob/main/LICENSE)
+[MIT License](LICENSE)
