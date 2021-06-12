@@ -19,4 +19,4 @@ python main.py
 ```
 
 ## License
-[Link To LICENSE](LICENSE)
+[MIT License](LICENSE)
