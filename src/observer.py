@@ -55,5 +55,6 @@ class Observer():
         if extension=='png':
             os.system(f'dot -Kfdp -n -Tpng _temp.dot -o {file_path}')
         elif extension=='eps':
-            os.system(f'dot -Tps _temp.dot -o {file_path}')
+            os.system(f'dot -Kfdp -n -Tps _temp.dot -o {file_path}')
+
         os.remove('_temp.dot')
